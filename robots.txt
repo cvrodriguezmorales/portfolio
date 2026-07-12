@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cvrodriguezmorales.github.io/portfolio/sitemap.xml

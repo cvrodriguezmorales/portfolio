@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>crodriguezportfolio</title>
+    <link href="https://cvrodriguezmorales.github.io/portfolio/feed.xml" rel="self" />
+    <link href="https://cvrodriguezmorales.github.io/portfolio" />
+    <updated>2026-07-12T12:23:08-07:00</updated>
+    <author>
+        <name>C. Rodríguez Morales</name>
+    </author>
+    <id>https://cvrodriguezmorales.github.io/portfolio</id>
+
+    <entry>
+        <title>¿Qué me gusta?</title>
+        <author>
+            <name>C. Rodríguez Morales</name>
+        </author>
+        <link href="https://cvrodriguezmorales.github.io/portfolio/que-te-gusta.html"/>
+        <id>https://cvrodriguezmorales.github.io/portfolio/que-te-gusta.html</id>
+
+        <updated>2026-07-12T11:33:50-07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    In case you're not able to tell, I'm bilingual. I'm pushing to become trilingual by learning Brazilian Portuguese, before my frontal lobe stops developing, except, plot twist, research says that doesn't really happen until my early 30s. So I guess I have some time after&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="font-claude-response-body break-words whitespace-normal">In case you're not able to tell, I'm bilingual. I'm pushing to become trilingual by learning Brazilian Portuguese, before my frontal lobe stops developing, except, plot twist, research says that doesn't really happen until my early 30s. So I guess I have some time after all.</p>
+<p class="font-claude-response-body break-words whitespace-normal">I enjoy having fun. It's as simple as that. I don't need a set category of things I like when the thing I like most is to enjoy life.</p>
+<p class="font-claude-response-body break-words whitespace-normal">Sometimes people ask me what my hobbies are, and I tend to say I don't have time for any. This summer, someone replied to that with: <em>"Well, if you did have the time, what would you be doing?"</em> And it was a great way to get me thinking about the things I enjoy.</p>
+<p class="font-claude-response-body break-words whitespace-normal">I enjoy exploring different places, I really do. I think one of the best ways to get to know yourself is by placing yourself in unfamiliar situations, in places you've never been before, to truly assess what you value most. In those places, I fantasize about sitting in a park, watercoloring while I people-watch.</p>
+<blockquote>
+<pre class="quoteText">“If I'm an advocate for anything, it's to move. As far as you can, as much as you can. Across the ocean, or simply across the river. The extent to which you can walk in someone else's shoes or at least eat their food, it's a plus for everybody.<br><br>Open your mind, get up off the couch, move.”<br><br>― <span class="authorOrTitle"> Anthony Bourdain<br><br><a href="https://www.youtube.com/watch?v=SVjOB3ZN1Ek" title="Anthony Bourdain's No Reservations on Youtube">Anthony Bourdain's No Reservations - Final Scene and Quote</a><br></span></pre>
+</blockquote>
+<p>When I was younger, let's say from ages 6 to 9, whenever there was a school project I had to color in, draw, or make sparkle, I would set aside everything else (though to be fair, there wasn't much to set aside at that age) until whatever poster board I was creating was perfect. As I've grown, I've noticed perfection is not my target. My target has always been self-expression. Whether through mundane hobbies I've had in the past, like doing my makeup or spending six hours painting my nails, I've always had a craving to keep expressing myself in the ways I know how.</p>
+<p>In fact, it shows in the things I enjoy: the little games I play on my Nintendo Switch, the long journaling sessions about self-reflection I sometimes have, the hour-long spin classes paced to the rhythm of the music, and the countless hours I've spent trying to do pottery projects and failing at them.<br><br>But if I were to choose what I want to spend my time doing, I'd choose learning, volunteering for underserved communities (like The Society of Saint Vincent de Paul in Phoenix, which focuses on feeding, clothing, and housing individuals who have nowhere else to turn), reading literary fiction from international authors, and walking around to explore different neighborhoods.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>¡Sobre mí! </title>
+        <author>
+            <name>C. Rodríguez Morales</name>
+        </author>
+        <link href="https://cvrodriguezmorales.github.io/portfolio/about-me.html"/>
+        <id>https://cvrodriguezmorales.github.io/portfolio/about-me.html</id>
+
+        <updated>2026-07-12T10:25:41-07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    My name is Camila, and currently, I'm figuring out my life. I'm an Industrial Engineering student from the University of Puerto Rico, chasing my passion for solving complex manufacturing problems. I'm also just a 22-year-old who's living and enjoying life, learning about myself, finding joy&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://cvrodriguezmorales.github.io/portfolio/media/posts/2/DSC_5305_Original-2.jpg" alt="" width="7360" height="4912" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://cvrodriguezmorales.github.io/portfolio/media/posts/2/responsive/DSC_5305_Original-2-xs.jpg 640w ,https://cvrodriguezmorales.github.io/portfolio/media/posts/2/responsive/DSC_5305_Original-2-sm.jpg 768w ,https://cvrodriguezmorales.github.io/portfolio/media/posts/2/responsive/DSC_5305_Original-2-md.jpg 1024w ,https://cvrodriguezmorales.github.io/portfolio/media/posts/2/responsive/DSC_5305_Original-2-lg.jpg 1366w ,https://cvrodriguezmorales.github.io/portfolio/media/posts/2/responsive/DSC_5305_Original-2-xl.jpg 1600w ,https://cvrodriguezmorales.github.io/portfolio/media/posts/2/responsive/DSC_5305_Original-2-2xl.jpg 1920w"></figure>
+<p>My name is Camila, and currently, I'm figuring out my life. I'm an Industrial Engineering student from the University of Puerto Rico, chasing my passion for solving complex manufacturing problems. I'm also just a 22-year-old who's living and enjoying life, learning about myself, finding joy in the mundane, and trying to give back to underserved communities.</p>
+<p class="font-claude-response-body break-words whitespace-normal">Overall, I'm just trying to have fun and enjoy everything I do. Because what's the point of life if I don't?</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
