@@ -10,16 +10,114 @@
     },
     "items": [
         {
+            "id": "https://cvrodriguezmorales.github.io/portfolio/cost-management.html",
+            "url": "https://cvrodriguezmorales.github.io/portfolio/cost-management.html",
+            "title": "Cost Management",
+            "author": {
+                "name": "C. Rodríguez Morales"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-07-12T14:20:37-07:00",
+            "date_modified": "2026-07-12T14:20:37-07:00"
+        },
+        {
+            "id": "https://cvrodriguezmorales.github.io/portfolio/applied-industrial-statistics.html",
+            "url": "https://cvrodriguezmorales.github.io/portfolio/applied-industrial-statistics.html",
+            "title": "Applied Industrial Statistics",
+            "author": {
+                "name": "C. Rodríguez Morales"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-07-12T14:20:27-07:00",
+            "date_modified": "2026-07-12T14:20:27-07:00"
+        },
+        {
+            "id": "https://cvrodriguezmorales.github.io/portfolio/ergonomics-and-human-factors.html",
+            "url": "https://cvrodriguezmorales.github.io/portfolio/ergonomics-and-human-factors.html",
+            "title": "Ergonomics and Human Factors",
+            "author": {
+                "name": "C. Rodríguez Morales"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-07-12T14:20:14-07:00",
+            "date_modified": "2026-07-12T14:20:14-07:00"
+        },
+        {
+            "id": "https://cvrodriguezmorales.github.io/portfolio/design-and-analysis-of-engineering-experiments.html",
+            "url": "https://cvrodriguezmorales.github.io/portfolio/design-and-analysis-of-engineering-experiments.html",
+            "title": "Design and Analysis of Engineering Experiments",
+            "author": {
+                "name": "C. Rodríguez Morales"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-07-12T14:19:48-07:00",
+            "date_modified": "2026-07-12T14:19:48-07:00"
+        },
+        {
+            "id": "https://cvrodriguezmorales.github.io/portfolio/methods-and-work-measurement.html",
+            "url": "https://cvrodriguezmorales.github.io/portfolio/methods-and-work-measurement.html",
+            "title": "Methods and Work Measurement",
+            "author": {
+                "name": "C. Rodríguez Morales"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-07-12T14:19:32-07:00",
+            "date_modified": "2026-07-12T14:19:32-07:00"
+        },
+        {
+            "id": "https://cvrodriguezmorales.github.io/portfolio/production-systems-and-inventory-management.html",
+            "url": "https://cvrodriguezmorales.github.io/portfolio/production-systems-and-inventory-management.html",
+            "title": "Production Systems and Inventory Management",
+            "author": {
+                "name": "C. Rodríguez Morales"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-07-12T14:19:21-07:00",
+            "date_modified": "2026-07-12T14:19:21-07:00"
+        },
+        {
+            "id": "https://cvrodriguezmorales.github.io/portfolio/deterministic-models-in-operations-research.html",
+            "url": "https://cvrodriguezmorales.github.io/portfolio/deterministic-models-in-operations-research.html",
+            "title": "Deterministic Models in Operations Research",
+            "author": {
+                "name": "C. Rodríguez Morales"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-07-12T14:19:06-07:00",
+            "date_modified": "2026-07-12T14:19:06-07:00"
+        },
+        {
+            "id": "https://cvrodriguezmorales.github.io/portfolio/courses.html",
+            "url": "https://cvrodriguezmorales.github.io/portfolio/courses.html",
+            "title": "Courses ",
+            "author": {
+                "name": "C. Rodríguez Morales"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-07-12T14:18:09-07:00",
+            "date_modified": "2026-07-12T14:18:09-07:00"
+        },
+        {
             "id": "https://cvrodriguezmorales.github.io/portfolio/voluntariado-svdp-072026.html",
             "url": "https://cvrodriguezmorales.github.io/portfolio/voluntariado-svdp-072026.html",
             "title": "Voluntariado @ SVdP (07/2026)",
+            "summary": "WIP until 07/17/2026",
+            "content_html": "<p>WIP until 07/17/2026</p>",
             "author": {
                 "name": "C. Rodríguez Morales"
             },
             "tags": [
             ],
             "date_published": "2026-07-12T13:46:54-07:00",
-            "date_modified": "2026-07-12T13:46:54-07:00"
+            "date_modified": "2026-07-12T14:14:26-07:00"
         },
         {
             "id": "https://cvrodriguezmorales.github.io/portfolio/que-te-gusta.html",
@@ -34,20 +132,6 @@
             ],
             "date_published": "2026-07-12T11:33:50-07:00",
             "date_modified": "2026-07-12T12:23:08-07:00"
-        },
-        {
-            "id": "https://cvrodriguezmorales.github.io/portfolio/about-me.html",
-            "url": "https://cvrodriguezmorales.github.io/portfolio/about-me.html",
-            "title": "¡Sobre mí! ",
-            "summary": "My name is Camila, and currently, I'm figuring out my life. I'm an Industrial Engineering student from the University of Puerto Rico, chasing my passion for solving complex manufacturing problems. I'm also just a 22-year-old who's living and enjoying life, learning about myself, finding joy&hellip;",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://cvrodriguezmorales.github.io/portfolio/media/posts/2/DSC_5305_Original-2.jpg\" alt=\"\" width=\"7360\" height=\"4912\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://cvrodriguezmorales.github.io/portfolio/media/posts/2/responsive/DSC_5305_Original-2-xs.jpg 640w ,https://cvrodriguezmorales.github.io/portfolio/media/posts/2/responsive/DSC_5305_Original-2-sm.jpg 768w ,https://cvrodriguezmorales.github.io/portfolio/media/posts/2/responsive/DSC_5305_Original-2-md.jpg 1024w ,https://cvrodriguezmorales.github.io/portfolio/media/posts/2/responsive/DSC_5305_Original-2-lg.jpg 1366w ,https://cvrodriguezmorales.github.io/portfolio/media/posts/2/responsive/DSC_5305_Original-2-xl.jpg 1600w ,https://cvrodriguezmorales.github.io/portfolio/media/posts/2/responsive/DSC_5305_Original-2-2xl.jpg 1920w\"></figure>\n<p>My name is Camila, and currently, I'm figuring out my life. I'm an Industrial Engineering student from the University of Puerto Rico, chasing my passion for solving complex manufacturing problems. I'm also just a 22-year-old who's living and enjoying life, learning about myself, finding joy in the mundane, and trying to give back to underserved communities.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal\">Overall, I'm just trying to have fun and enjoy everything I do. Because what's the point of life if I don't?</p>",
-            "author": {
-                "name": "C. Rodríguez Morales"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-07-12T10:25:41-07:00",
-            "date_modified": "2026-07-12T10:33:57-07:00"
         }
     ]
 }
