@@ -3,7 +3,7 @@
     <title>crodriguezportfolio</title>
     <link href="https://cvrodriguezmorales.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://cvrodriguezmorales.github.io/portfolio" />
-    <updated>2026-07-12T14:55:26-07:00</updated>
+    <updated>2026-07-12T15:01:48-07:00</updated>
     <author>
         <name>C. Rodríguez Morales</name>
     </author>
@@ -54,17 +54,22 @@
 <p><em><strong>Our approach:</strong></em> Rather than jumping straight to a "final" model, we built it in stages, starting simple and adding complexity only when it was justified by the data. We began with a baseline model using just the physical characteristics of each building, then progressively layered in environmental effects (temperature), behavioral patterns (weekday vs. weekend usage), and interaction effects between variables, testing at each step whether the added complexity was actually earning its keep.</p>
 <p>We validated each model using ANOVA, t-tests for individual predictors, and residual diagnostics (normal probability plots, versus-fits plots) to check that our assumptions held up. We used variance inflation factors (VIF) to make sure our predictors weren't dangerously correlated with each other. All analysis was done in Minitab.</p>
 <p><em><strong>Results:</strong></em></p>
-<blockquote>
 <ul>
 <li><strong>Square footage</strong> was the single strongest driver of energy use. Bigger buildings consistently use more energy, no surprise there.</li>
+</ul>
+<ul>
 <li><strong>Building type</strong> mattered a lot: industrial buildings carry a much higher baseline energy demand than commercial or residential buildings, regardless of size.</li>
+</ul>
+<ul>
 <li>Each additional appliance added roughly <strong>20 kWh</strong> to daily consumption.</li>
+</ul>
+<ul>
 <li>Energy use reliably <strong>dropped on weekends</strong>, capturing real behavioral patterns in how buildings are used.</li>
 <li>Temperature had a smaller, but still statistically significant, effect; colder days used more energy than warmer ones, suggesting heating costs outweigh cooling costs in this dataset.</li>
 </ul>
-</blockquote>
 <p><em><strong>The judgment call:</strong></em> Our most technically "perfect" model (Model 5) achieved a 100% R² and virtually zero prediction error; but it also included two interaction terms that didn't meaningfully improve accuracy in practice. We recommended a simpler model (Model 4) for Lux Inc.'s actual field use instead, applying Occam's Razor: if two models explain the data equally well, the simpler one is the better choice for real-world decision-making. </p>
 <p><em><strong>Skills applied:</strong></em> Multiple linear regression, ANOVA, residual diagnostics, multicollinearity assessment (VIF), model selection, Minitab, data-driven business recommendations</p>
+<p class="align-center"><a href="https://cvrodriguezmorales.github.io/portfolio/Regression Analysis Project (1).pdf">Regression Analysis Project</a></p>
 <hr>
 <p> </p>
 <p> </p>
