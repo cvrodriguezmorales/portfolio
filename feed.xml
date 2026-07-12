@@ -3,12 +3,24 @@
     <title>crodriguezportfolio</title>
     <link href="https://cvrodriguezmorales.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://cvrodriguezmorales.github.io/portfolio" />
-    <updated>2026-07-12T12:23:08-07:00</updated>
+    <updated>2026-07-12T13:46:54-07:00</updated>
     <author>
         <name>C. Rodríguez Morales</name>
     </author>
     <id>https://cvrodriguezmorales.github.io/portfolio</id>
 
+    <entry>
+        <title>Voluntariado @ SVdP (07/2026)</title>
+        <author>
+            <name>C. Rodríguez Morales</name>
+        </author>
+        <link href="https://cvrodriguezmorales.github.io/portfolio/voluntariado-svdp-072026.html"/>
+        <id>https://cvrodriguezmorales.github.io/portfolio/voluntariado-svdp-072026.html</id>
+
+        <updated>2026-07-12T13:46:54-07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>¿Qué me gusta?</title>
         <author>

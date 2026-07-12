@@ -10,6 +10,18 @@
     },
     "items": [
         {
+            "id": "https://cvrodriguezmorales.github.io/portfolio/voluntariado-svdp-072026.html",
+            "url": "https://cvrodriguezmorales.github.io/portfolio/voluntariado-svdp-072026.html",
+            "title": "Voluntariado @ SVdP (07/2026)",
+            "author": {
+                "name": "C. Rodríguez Morales"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-07-12T13:46:54-07:00",
+            "date_modified": "2026-07-12T13:46:54-07:00"
+        },
+        {
             "id": "https://cvrodriguezmorales.github.io/portfolio/que-te-gusta.html",
             "url": "https://cvrodriguezmorales.github.io/portfolio/que-te-gusta.html",
             "title": "¿Qué me gusta?",
