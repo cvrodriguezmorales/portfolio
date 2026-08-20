@@ -3,7 +3,7 @@
     <title>crodriguezportfolio</title>
     <link href="https://cvrodriguezmorales.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://cvrodriguezmorales.github.io/portfolio" />
-    <updated>2026-08-20T10:59:20-07:00</updated>
+    <updated>2026-08-20T11:14:53-07:00</updated>
     <author>
         <name>C. Rodríguez Morales</name>
     </author>
@@ -193,14 +193,14 @@
         <updated>2026-07-12T14:19:48-07:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Course Foundations &amp; Skills Mastered My coursework in ININ 4027 at the University of Puerto Rico, Mayagüez Campus, completely changed how I look at process variability. Rather than just learning statistical theories, the class provided a rigorous framework for identifying where variations happen and how&hellip;
+                    Course Foundations &amp; Skills Mastered Rather than just learning statistical theories, this class provided a rigorous framework for identifying where variations happen and how to systematically tune a process to hit optimal targets. It taught me how to turn raw statistical concepts into actionable engineering&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <div id="model-response-message-contentr_95200f5d877f37c0" class="markdown markdown-main-panel md-content enable-luminous-fast-follows enable-updated-hr-color stronger" dir="ltr" aria-busy="false" aria-live="polite">
 <h3 data-path-to-node="1">Course Foundations &amp; Skills Mastered</h3>
-<div><span data-path-to-node="2,0">My coursework in ININ 4027 at the University of Puerto Rico, Mayagüez Campus, completely changed how I look at process variability</span><span data-path-to-node="2,2">. Rather than just learning statistical theories, the class provided a rigorous framework for identifying where variations happen and how to systematically tune a process to hit optimal targets</span><span data-path-to-node="2,4">. It taught me how to turn raw statistical concepts into actionable engineering decisions</span><span data-path-to-node="2,6">. Here is a breakdown of my core takeaways:</span></div>
+<div><span data-path-to-node="2,2">Rather than just learning statistical theories, this class provided a rigorous framework for identifying where variations happen and how to systematically tune a process to hit optimal targets</span><span data-path-to-node="2,4">. It taught me how to turn raw statistical concepts into actionable engineering decisions</span><span data-path-to-node="2,6">. Here is a breakdown of my core takeaways:</span></div>
 <br>
 <div class="horizontal-scroll-wrapper">
 <table data-path-to-node="3">
@@ -254,7 +254,7 @@
 <div><span data-path-to-node="9,0,0,0">We built a full factorial design (with center points) and completely randomized our run order to make sure the simulator's timing quirks wouldn't introduce measurement errors</span><span data-path-to-node="9,0,0,2">.</span></div>
 </li>
 <li>
-<div><span data-path-to-node="9,1,0,0">We calculated our response variables using the Successive Difference Method, governed by the equation <span class="math-inline" data-math="a = \frac{x_4+x_5+x_6-(x_1+x_2+x_3)}{9t^2}" data-index-in-node="102">$a = \frac{x_4+x_5+x_6-(x_1+x_2+x_3)}{9t^2}$</span></span><span data-path-to-node="9,1,0,2">.</span></div>
+<div><span data-path-to-node="9,1,0,0">We calculated our response variables using the Successive Difference Method, governed by the equation <strong data-path-to-node="11,1,0,0" data-index-in-node="102">a = [(x4 + x5 + x6) - (x1 + x2 + x3)] / 9t2</strong>.</span></div>
 </li>
 <li>
 <div><span data-path-to-node="9,2,0,0">The data proved that a steeper ramp naturally spiked acceleration, while friction pushed back hard as a direct opposing force—essentially letting us map out Newton's Second Law statistically</span><span data-path-to-node="9,2,0,2">.</span></div>
@@ -265,9 +265,7 @@
 </ul>
 <h3 data-path-to-node="10">Industrial Value &amp; Process Optimization</h3>
 <div>Being able to statistically validate a system instead of relying on trial-and-error is everything in modern manufacturing. These Design of Experiments (DOE) methodologies directly translate to the hands-on challenges I tackle on the floor—whether that means using data to drive cycle time reductions, evaluating work content, or pushing for continuous improvement and process optimization on a vehicle assembly line.</div>
-<br>
-<div>How does this conversational tone feel for your target audience, or would you like to tweak the level of technical jargon in any specific section?</div>
-</div>
+<br><a href="https://cvrodriguezmorales.github.io/portfolio/Reporte Final ININ4027(2).pdf" target="_blank" rel="noopener noreferrer">Design of Engineering Experiments Final Project</a></div>
             ]]>
         </content>
     </entry>
