@@ -3,7 +3,7 @@
     <title>crodriguezportfolio</title>
     <link href="https://cvrodriguezmorales.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://cvrodriguezmorales.github.io/portfolio" />
-    <updated>2026-11-06T18:01:52-04:00</updated>
+    <updated>2026-11-06T18:05:18-04:00</updated>
     <author>
         <name>C. Rodríguez Morales</name>
     </author>
@@ -64,12 +64,12 @@
         <updated>2026-11-06T17:32:13-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                    I am taking this course in the fall of 2026, and it is teaching me to think about a factory as a whole: where every department goes, how material moves between them, and how a building has to change when a company grows or adds&hellip;
+                    A factory is more than the machines inside it. Facilities Layout and Design, which I'm taking in the fall of 2026, is teaching me to think about a factory as a whole: where every department goes, how material moves between them, and how a building&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><a></a>I am taking this course in the fall of 2026, and it is teaching me to think about a factory as a whole: where every department goes, how material moves between them, and how a building has to change when a company grows or adds a new product. Instead of designing a single workstation, I am learning to design the facility itself, starting from a clear definition of the problem and building up, step by step, the evidence needed to justify a layout.</p>
+                <p>A factory is more than the machines inside it. Facilities Layout and Design, which I'm taking in the fall of 2026, is teaching me to think about a factory as a whole: where every department goes, how material moves between them, and how a building has to change when a company grows or adds a new product. Instead of designing a single workstation, I am learning to design the facility itself, starting from a clear definition of the problem and building up, step by step, the evidence needed to justify a layout.</p>
 <ul>
 <li>The technical skills gained: 
 <ul>
@@ -112,12 +112,12 @@
         <updated>2026-11-06T17:31:49-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                    I am taking this course in the fall of 2026, and it is where I get my hands on the hardware behind modern manufacturing. Instead of only analyzing systems on paper, I am learning how automated processes actually sense, decide, and act: wiring circuits, connecting&hellip;
+                    This is the course where I finally get my hands on the hardware behind modern manufacturing, and I'm taking it this fall (2026). Instead of only analyzing systems on paper, I am learning how automated processes actually sense, decide, and act: wiring circuits, connecting sensors&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>I am taking this course in the fall of 2026, and it is where I get my hands on the hardware behind modern manufacturing. Instead of only analyzing systems on paper, I am learning how automated processes actually sense, decide, and act: wiring circuits, connecting sensors and actuators, and programming the controllers that run them. Most of the learning happens in the lab, where every concept from class has to work on a real breadboard, a real PLC, or a real pneumatic cylinder.</p>
+                <p>This is the course where I finally get my hands on the hardware behind modern manufacturing, and I'm taking it this fall (2026). Instead of only analyzing systems on paper, I am learning how automated processes actually sense, decide, and act: wiring circuits, connecting sensors and actuators, and programming the controllers that run them. Most of the learning happens in the lab, where every concept from class has to work on a real breadboard, a real PLC, or a real pneumatic cylinder.</p>
 <ul>
 <li>The technical skills gained: 
 <ul>
@@ -145,12 +145,12 @@
         <updated>2026-11-06T17:31:38-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                    I am taking this course in the fall of 2026, and it is teaching me how to study systems where randomness is part of the story: customers arriving at unpredictable times, machines that break down, and processes that never take exactly the same amount of&hellip;
+                    In the real world, almost nothing runs exactly as planned. This fall 2026 course is teaching me how to study systems where randomness is part of the story: customers arriving at unpredictable times, machines that break down, and processes that never take exactly the same&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>I am taking this course in the fall of 2026, and it is teaching me how to study systems where randomness is part of the story: customers arriving at unpredictable times, machines that break down, and processes that never take exactly the same amount of time twice. Instead of experimenting on a real factory or service line, I am learning to build computer simulation models of these systems, test changes safely, and use statistics to decide which design truly performs best.</p>
+                <p>In the real world, almost nothing runs exactly as planned. This fall 2026 course is teaching me how to study systems where randomness is part of the story: customers arriving at unpredictable times, machines that break down, and processes that never take exactly the same amount of time twice. Instead of experimenting on a real factory or service line, I am learning to build computer simulation models of these systems, test changes safely, and use statistics to decide which design truly performs best.</p>
 <ul>
 <li>The technical skills gained: 
 <ul>
