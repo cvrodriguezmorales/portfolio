@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://cvrodriguezmorales.github.io/portfolio/internship-experiences-and-key-skills.html",
+            "url": "https://cvrodriguezmorales.github.io/portfolio/internship-experiences-and-key-skills.html",
+            "title": "Professional Experiences and Key Skills ",
+            "summary": "Tesla | Technical Project Management Intern Battery and Drive Unit · Austin, TX · January to July 2024 My first internship taught me how large engineering projects stay on track. I coordinated across engineering, operations, finance, suppliers, and contractors, keeping scope, requirements, milestones, and risks&hellip;",
+            "content_html": "<h2>Tesla | Technical Project Management Intern</h2>\n<p><strong>Battery and Drive Unit · Austin, TX · January to July 2024</strong></p>\n<p>My first internship taught me how large engineering projects stay on track. I coordinated across engineering, operations, finance, suppliers, and contractors, keeping scope, requirements, milestones, and risks aligned. I also used root-cause analysis to improve how issues were tracked and escalated, so engineering teams could respond faster.</p>\n<p><strong>Tools:</strong> Microsoft Project, Primavera P6</p>\n<p><strong>Skills:</strong> Project scheduling, stakeholder coordination, risk and issue tracking, root-cause analysis, supplier and procurement coordination</p>\n<h2>Rivian | Industrial Engineering Intern</h2>\n<p><strong>Body Shop · Normal, IL · May to August 2025</strong></p>\n<p>At Rivian, I moved onto the production floor. I led a Kaizen project, using work measurement and workflow analysis to find and remove wasted motion and rebalance the process. I designed and ran production line trials to test changes before rolling them out, improved material presentation and tooling placement, and analyzed production scenarios to support data-driven decisions.</p>\n<p><strong>Tools:</strong> MODAPTS</p>\n<p><strong>Skills:</strong> Kaizen and continuous improvement, line balancing, cycle-time analysis, production trials, work measurement, data analysis</p>\n<h2>Lucid Motors | Advanced Manufacturing Engineering Intern</h2>\n<p><strong>Vehicle Engineering · Casa Grande, AZ · June to August 2026</strong></p>\n<p>At Lucid, I worked on new product introduction, developing manufacturing processes for new vehicle components: assembly sequence, workstation allocation, cycle time, tooling, and scalability. I led design-for-manufacturing reviews with design, manufacturing, launch, production, and logistics teams, worked with an equipment supplier to translate requirements into equipment design, and wrote and validated work instructions during a pre-production build. I also supported make-vs-buy analysis and tooling and fastener commonization.</p>\n<p><strong>Tools:</strong> CATIA, 3DEXPERIENCE</p>\n<p><strong>Skills:</strong> New product introduction (NPI), process development and validation, design for manufacturing (DFM), work instructions, supplier collaboration, tooling requirements</p>\n<h2>My toolkit</h2>\n<p>Along with the tools above, I work with Jira, Azure DevOps, Oracle Aconex, ProPlanner, AutoCAD, FlexSim, Minitab, Power BI, Excel VBA, Python, and SQL, and I hold a Lean Six Sigma Yellow Belt.</p>\n<h2>What I took away</h2>\n<p>Across three very different roles, the same lessons kept coming back:</p>\n<ul>\n<li><strong>Go see the process.</strong> The best improvements came from watching how work actually happens on the floor.</li>\n<li><strong>Prove it with data.</strong> Testing a change before rolling it out builds trust and avoids costly surprises.</li>\n<li><strong>Manufacturing is a team sport.</strong> Every process I worked on depended on aligning design, production, quality, logistics, and suppliers.</li>\n</ul>\n<p> </p>",
+            "author": {
+                "name": "C. Rodríguez Morales"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-06T17:56:45-04:00",
+            "date_modified": "2026-11-06T17:59:27-04:00"
+        },
+        {
             "id": "https://cvrodriguezmorales.github.io/portfolio/facility-layout-and-design.html",
             "url": "https://cvrodriguezmorales.github.io/portfolio/facility-layout-and-design.html",
             "title": "Facility Layout and Design",
@@ -63,7 +77,7 @@
             "tags": [
             ],
             "date_published": "2026-11-06T17:17:31-04:00",
-            "date_modified": "2026-11-06T17:17:31-04:00"
+            "date_modified": "2026-11-06T18:01:52-04:00"
         },
         {
             "id": "https://cvrodriguezmorales.github.io/portfolio/cost-management.html",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-07-12T17:19:21-04:00",
             "date_modified": "2026-11-06T17:26:59-04:00"
-        },
-        {
-            "id": "https://cvrodriguezmorales.github.io/portfolio/deterministic-models-in-operations-research.html",
-            "url": "https://cvrodriguezmorales.github.io/portfolio/deterministic-models-in-operations-research.html",
-            "title": "Deterministic Models in Operations Research",
-            "summary": "I took this course in the spring of 2026, and it taught me how to turn a messy real-world decision into a mathematical model and find the best possible answer. I learned to recognize, formulate, and solve linear optimization problems, from deciding how much of&hellip;",
-            "content_html": "<p>I took this course in the spring of 2026, and it taught me how to turn a messy real-world decision into a mathematical model and find the best possible answer. I learned to recognize, formulate, and solve linear optimization problems, from deciding how much of each product to make to routing shipments through a network, and, just as importantly, how to interpret the results and turn them into practical recommendations.</p>\n<ul>\n<li>The technical skills gained: \n<ul>\n<li>Linear Programming Formulation - Translating real-world problems such as production, blending, diet, staff scheduling, and capital budgeting into decision variables, an objective function, and constraints.</li>\n<li>Graphical and Simplex Methods - Solving LP problems graphically and with the simplex algorithm (including the Big-M method), and identifying special cases such as infeasible, unbounded, and alternative optimal solutions.</li>\n<li>Duality and Sensitivity Analysis - Using the dual problem and sensitivity reports to understand how much each resource is worth and how far costs or capacities can change before the optimal solution changes.</li>\n<li>Computer-Based Optimization - Building and solving LP models in Excel Solver and interpreting its output.</li>\n<li>Transportation, Assignment, and Transshipment Problems - Finding the lowest-cost way to ship goods from supply points to demand points, and assigning workers to tasks optimally with the Hungarian method.</li>\n<li>Network Optimization - Solving shortest path problems with Dijkstra's algorithm, as well as maximum flow and minimum spanning tree problems.</li>\n<li>Project Management - Scheduling projects and identifying their critical activities with the Critical Path Method (CPM) and PERT.</li>\n</ul>\n</li>\n</ul>",
-            "author": {
-                "name": "C. Rodríguez Morales"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-07-12T17:19:06-04:00",
-            "date_modified": "2026-11-06T17:30:51-04:00"
         }
     ]
 }
