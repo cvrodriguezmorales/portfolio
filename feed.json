@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://cvrodriguezmorales.github.io/portfolio/methods-and-work-measurement-2.html",
+            "url": "https://cvrodriguezmorales.github.io/portfolio/methods-and-work-measurement-2.html",
+            "title": "Methods &amp; Work Measurement",
+            "summary": "I took this course in the spring of 2026, and it is where Industrial Engineering started to feel tangible to me: instead of looking at a system from a distance, I learned to watch a person do a job, break it down motion by motion,&hellip;",
+            "content_html": "<p>I took this course in the spring of 2026, and it is where Industrial Engineering started to feel tangible to me: instead of looking at a system from a distance, I learned to watch a person do a job, break it down motion by motion, and figure out how long it <em>should</em> take and how to make it better. The course combined work systems design with work measurement, giving me the tools to evaluate, standardize, and improve the productivity and efficiency of manual operations.</p>\n<ul>\n<li>The technical skills gained: \n<ul>\n<li>Methods Analysis - Mapping operations with flow process charts, assembly charts, and left-hand/right-hand (operator) charts built from the 17 Therbligs, to find and eliminate wasted motions.</li>\n<li>Direct Time Studies - Timing work elements with a stopwatch (snapback and continuous methods), determining the required number of cycles, and checking results with confidence intervals.</li>\n<li>Performance Rating - Leveling observed times to a \"normal\" pace using speed rating, the Westinghouse system, and the synthetic method, and evaluating how consistent an analyst's ratings are.</li>\n<li>Allowances and Standard Time - Adding personal, fatigue, and delay (PFD) allowances, including heat-stress allowances, to build labor time standards for both manual and machine-paced work.</li>\n<li>Work Sampling - Estimating how workers and machines spend their time through random observations instead of continuous timing.</li>\n<li>Line Balancing - Assigning work elements to stations using precedence diagrams to meet a target cycle time while minimizing idle time.</li>\n<li>Predetermined Time Systems - Building time standards from motion data with MOST (general move, controlled move, and tool use sequences), without needing a stopwatch.</li>\n</ul>\n</li>\n</ul>",
+            "author": {
+                "name": "C. Rodríguez Morales"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-06T17:17:31-04:00",
+            "date_modified": "2026-11-06T17:17:31-04:00"
+        },
+        {
             "id": "https://cvrodriguezmorales.github.io/portfolio/cost-management.html",
             "url": "https://cvrodriguezmorales.github.io/portfolio/cost-management.html",
             "title": "Cost Management",
@@ -64,18 +78,6 @@
             ],
             "date_published": "2026-07-12T17:19:48-04:00",
             "date_modified": "2026-08-20T16:37:07-04:00"
-        },
-        {
-            "id": "https://cvrodriguezmorales.github.io/portfolio/methods-and-work-measurement.html",
-            "url": "https://cvrodriguezmorales.github.io/portfolio/methods-and-work-measurement.html",
-            "title": "Methods and Work Measurement",
-            "author": {
-                "name": "C. Rodríguez Morales"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-07-12T17:19:32-04:00",
-            "date_modified": "2026-07-12T17:19:32-04:00"
         },
         {
             "id": "https://cvrodriguezmorales.github.io/portfolio/production-systems-and-inventory-management.html",

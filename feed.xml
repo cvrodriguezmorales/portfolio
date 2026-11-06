@@ -3,12 +3,45 @@
     <title>crodriguezportfolio</title>
     <link href="https://cvrodriguezmorales.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://cvrodriguezmorales.github.io/portfolio" />
-    <updated>2026-08-20T16:37:07-04:00</updated>
+    <updated>2026-11-06T17:17:31-04:00</updated>
     <author>
         <name>C. Rodríguez Morales</name>
     </author>
     <id>https://cvrodriguezmorales.github.io/portfolio</id>
 
+    <entry>
+        <title>Methods &amp; Work Measurement</title>
+        <author>
+            <name>C. Rodríguez Morales</name>
+        </author>
+        <link href="https://cvrodriguezmorales.github.io/portfolio/methods-and-work-measurement-2.html"/>
+        <id>https://cvrodriguezmorales.github.io/portfolio/methods-and-work-measurement-2.html</id>
+
+        <updated>2026-11-06T17:17:31-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    I took this course in the spring of 2026, and it is where Industrial Engineering started to feel tangible to me: instead of looking at a system from a distance, I learned to watch a person do a job, break it down motion by motion,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I took this course in the spring of 2026, and it is where Industrial Engineering started to feel tangible to me: instead of looking at a system from a distance, I learned to watch a person do a job, break it down motion by motion, and figure out how long it <em>should</em> take and how to make it better. The course combined work systems design with work measurement, giving me the tools to evaluate, standardize, and improve the productivity and efficiency of manual operations.</p>
+<ul>
+<li>The technical skills gained: 
+<ul>
+<li>Methods Analysis - Mapping operations with flow process charts, assembly charts, and left-hand/right-hand (operator) charts built from the 17 Therbligs, to find and eliminate wasted motions.</li>
+<li>Direct Time Studies - Timing work elements with a stopwatch (snapback and continuous methods), determining the required number of cycles, and checking results with confidence intervals.</li>
+<li>Performance Rating - Leveling observed times to a "normal" pace using speed rating, the Westinghouse system, and the synthetic method, and evaluating how consistent an analyst's ratings are.</li>
+<li>Allowances and Standard Time - Adding personal, fatigue, and delay (PFD) allowances, including heat-stress allowances, to build labor time standards for both manual and machine-paced work.</li>
+<li>Work Sampling - Estimating how workers and machines spend their time through random observations instead of continuous timing.</li>
+<li>Line Balancing - Assigning work elements to stations using precedence diagrams to meet a target cycle time while minimizing idle time.</li>
+<li>Predetermined Time Systems - Building time standards from motion data with MOST (general move, controlled move, and tool use sequences), without needing a stopwatch.</li>
+</ul>
+</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cost Management</title>
         <author>
@@ -268,18 +301,6 @@
 <br><a href="https://cvrodriguezmorales.github.io/portfolio/Reporte Final ININ4027(2).pdf" target="_blank" rel="noopener noreferrer">Design of Engineering Experiments Final Project</a></div>
             ]]>
         </content>
-    </entry>
-    <entry>
-        <title>Methods and Work Measurement</title>
-        <author>
-            <name>C. Rodríguez Morales</name>
-        </author>
-        <link href="https://cvrodriguezmorales.github.io/portfolio/methods-and-work-measurement.html"/>
-        <id>https://cvrodriguezmorales.github.io/portfolio/methods-and-work-measurement.html</id>
-
-        <updated>2026-07-12T17:19:32-04:00</updated>
-            <summary></summary>
-        <content></content>
     </entry>
     <entry>
         <title>Production Systems and Inventory Management</title>
