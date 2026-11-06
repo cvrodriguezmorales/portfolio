@@ -3,7 +3,7 @@
     <title>crodriguezportfolio</title>
     <link href="https://cvrodriguezmorales.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://cvrodriguezmorales.github.io/portfolio" />
-    <updated>2026-11-06T17:17:31-04:00</updated>
+    <updated>2026-11-06T17:26:59-04:00</updated>
     <author>
         <name>C. Rodríguez Morales</name>
     </author>
@@ -311,8 +311,29 @@
         <id>https://cvrodriguezmorales.github.io/portfolio/production-systems-and-inventory-management.html</id>
 
         <updated>2026-07-12T17:19:21-04:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary type="html">
+                <![CDATA[
+                    I took this course in the spring of 2026, and it showed me how a company decides what to make, how much, and when. Starting from a forecast and working all the way down to the materials and machine hours needed on the shop floor,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I took this course in the spring of 2026, and it showed me how a company decides what to make, how much, and when. Starting from a forecast and working all the way down to the materials and machine hours needed on the shop floor, I learned the analytical tools used to design and improve production and inventory systems, and how every planning decision trades off cost, capacity, and customer service.</p>
+<ul>
+<li>The technical skills gained: 
+<ul>
+<li>Production Systems Fundamentals - Distinguishing manufacturing environments (make-to-stock, assemble-to-order, make-to-order), push versus pull systems, and the role of bottlenecks, WIP, takt time, and Lean principles.</li>
+<li>Forecasting - Building and evaluating demand forecasts with moving averages, exponential smoothing, trend models, and Winters' method for seasonal data, and measuring their accuracy with MAD, MSE, and MAPE.</li>
+<li>Inventory Control - Determining how much to order and when using the EOQ and EPQ models for known demand, the newsvendor model for one-time decisions, and reorder point systems with Type 1 and Type 2 service levels for uncertain demand.</li>
+<li>Aggregate Planning - Developing production and workforce plans (chase, level, and mixed strategies) and optimizing them with linear programming in Excel Solver.</li>
+<li>Master Production Scheduling - Translating the aggregate plan into a schedule for specific products and calculating available-to-promise (ATP) quantities for customer orders.</li>
+<li>Material Requirements Planning (MRP) - Exploding bills of materials to plan component orders, comparing lot-sizing rules, and choosing the option with the lowest total cost.</li>
+<li>Capacity Planning - Checking whether a production plan is feasible with the available machines and labor, using overall factors (CPOF), resource profiles, and capacity requirements planning (CRP).</li>
+</ul>
+</li>
+</ul>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Deterministic Models in Operations Research</title>

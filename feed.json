@@ -83,13 +83,15 @@
             "id": "https://cvrodriguezmorales.github.io/portfolio/production-systems-and-inventory-management.html",
             "url": "https://cvrodriguezmorales.github.io/portfolio/production-systems-and-inventory-management.html",
             "title": "Production Systems and Inventory Management",
+            "summary": "I took this course in the spring of 2026, and it showed me how a company decides what to make, how much, and when. Starting from a forecast and working all the way down to the materials and machine hours needed on the shop floor,&hellip;",
+            "content_html": "<p>I took this course in the spring of 2026, and it showed me how a company decides what to make, how much, and when. Starting from a forecast and working all the way down to the materials and machine hours needed on the shop floor, I learned the analytical tools used to design and improve production and inventory systems, and how every planning decision trades off cost, capacity, and customer service.</p>\n<ul>\n<li>The technical skills gained: \n<ul>\n<li>Production Systems Fundamentals - Distinguishing manufacturing environments (make-to-stock, assemble-to-order, make-to-order), push versus pull systems, and the role of bottlenecks, WIP, takt time, and Lean principles.</li>\n<li>Forecasting - Building and evaluating demand forecasts with moving averages, exponential smoothing, trend models, and Winters' method for seasonal data, and measuring their accuracy with MAD, MSE, and MAPE.</li>\n<li>Inventory Control - Determining how much to order and when using the EOQ and EPQ models for known demand, the newsvendor model for one-time decisions, and reorder point systems with Type 1 and Type 2 service levels for uncertain demand.</li>\n<li>Aggregate Planning - Developing production and workforce plans (chase, level, and mixed strategies) and optimizing them with linear programming in Excel Solver.</li>\n<li>Master Production Scheduling - Translating the aggregate plan into a schedule for specific products and calculating available-to-promise (ATP) quantities for customer orders.</li>\n<li>Material Requirements Planning (MRP) - Exploding bills of materials to plan component orders, comparing lot-sizing rules, and choosing the option with the lowest total cost.</li>\n<li>Capacity Planning - Checking whether a production plan is feasible with the available machines and labor, using overall factors (CPOF), resource profiles, and capacity requirements planning (CRP).</li>\n</ul>\n</li>\n</ul>",
             "author": {
                 "name": "C. Rodríguez Morales"
             },
             "tags": [
             ],
             "date_published": "2026-07-12T17:19:21-04:00",
-            "date_modified": "2026-07-12T17:19:21-04:00"
+            "date_modified": "2026-11-06T17:26:59-04:00"
         },
         {
             "id": "https://cvrodriguezmorales.github.io/portfolio/deterministic-models-in-operations-research.html",
